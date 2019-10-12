@@ -6,6 +6,11 @@ header.page_header{
   height: 560px;
   padding-top: 280px;;
 }
+page_header{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
 h1.title, h2.slogan{
   color: #ffffff;
   font-weight: 400;
